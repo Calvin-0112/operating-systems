@@ -1,6 +1,6 @@
 # operating-systems
-open the zip file
-the password is myos
+open the zip file.
+The password is myos.
 in Terminal type this command
 
 
